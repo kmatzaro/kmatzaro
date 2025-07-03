@@ -4,7 +4,8 @@ I'm a physicist-turned-software engineer with a passion for building intelligent
 
 🔧 Currently working on **scenario-based testing** and **simulation tooling** for autonomous driving systems  
 🧠 PhD in Theoretical Physics – strong background in **statistical modeling**, **optimization**, and **Python-based data analysis**  
-🚗 Experience with **V&V of L4 autonomous trucks**, including automated scenario generation, performance KPIs, and simulation-debugging pipelines  
+🚗 Experience with **V&V of L4 autonomous trucks**, including automated scenario generation, performance KPIs, and simulation-debugging pipelines
+
 👀 Currently exploring:
 - Lane detection in simulated environments (Carla)
 - Applying ML and CV techniques to improve simulation realism and perception robustness
