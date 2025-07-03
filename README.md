@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kostas Mantzaropoulos
+# 👋 Hi, I'm Kostas
 
-I'm a physicist-turned-software engineer with a passion for building intelligent, reliable systems in the fields of **autonomous vehicles**, **computer vision**, and **data-driven simulation**.
+I'm a physicist-turned-software engineer with a passion for building intelligent, reliable systems in the fields of **autonomous vehicles** and **data-driven simulation**.
 
 🔧 Currently working on **scenario-based testing** and **simulation tooling** for autonomous driving systems  
 🧠 PhD in Theoretical Physics – strong background in **statistical modeling**, **optimization**, and **Python-based data analysis**  
@@ -15,12 +15,12 @@ I'm a physicist-turned-software engineer with a passion for building intelligent
 - Autonomous driving systems (V&V, perception, behavior modeling)
 - Scenario generation and validation for ADAS/AD
 - Applying AI in safety-critical systems
-- Contributing to open-source simulation and AV research tools
-- Anything that has physics in it's name
+- Anything that has physics in
 
 ---
 
 ## 📫 Let's connect!
+
 - 📍 Based in Ioannina, Greece
 - 💬 Always open to collaboration or conversation
 - 📨 Reach me at: **kmatzaro@gmail.com**
