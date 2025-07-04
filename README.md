@@ -16,7 +16,7 @@ I'm a physicist-turned-software engineer with a passion for building intelligent
 - Autonomous driving systems (V&V, perception, behavior modeling)
 - Scenario generation and validation for ADAS/AD
 - Applying AI in safety-critical systems
-- Anything that has physics in
+- Anything Physics related
 
 ---
 
