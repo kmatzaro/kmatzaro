@@ -22,7 +22,6 @@ I'm a physicist-turned-software engineer with a passion for building intelligent
 
 ## 📫 Let's connect!
 
-- 📍 Based in Ioannina, Greece
 - 💬 Always open to collaboration or conversation
 - 📨 Reach me at: **kmatzaro@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/kostas-mantzaropoulos/)
